@@ -1,2 +1,2 @@
 let num = 5;
-let a = 1+2;
+let a = 4;
